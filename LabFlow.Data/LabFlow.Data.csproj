@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LabFlow.Business\LabFlow.Business.csproj" />
+    <ProjectReference Include="..\LabFlow.Domain\LabFlow.Domain.csproj" />
   </ItemGroup>
 
 </Project>
